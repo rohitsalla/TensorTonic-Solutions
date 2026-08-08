@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Activation Functions | Implement ReLU, sigmoid, tanh, Leaky ReLU, GELU, and Swish with their analytical derivatives. | https://www.tensortonic.com/study-plans/cracking-dl/dl-activation-functions |
+| Backpropagation (Single Hidden Layer) | Backpropagate MSE loss through a one-hidden-layer NumPy network to compute gradients for every weight and bias. | https://www.tensortonic.com/study-plans/cracking-dl/dl-backpropagation |
 | Batch Normalization | Implement batch normalization for training and inference, including batch statistics and running-statistic updates. | https://www.tensortonic.com/study-plans/cracking-dl/dl-batch-normalization |
 | Dropout | Apply inverted dropout from a supplied binary mask during training and preserve the input unchanged during evaluation. | https://www.tensortonic.com/study-plans/cracking-dl/dl-dropout |
 | Multi-Layer Perceptron (Forward Pass) | Implement the forward pass of a multi-layer perceptron (MLP) with arbitrary depth and width. | https://www.tensortonic.com/study-plans/cracking-dl/dl-forward-pass |
