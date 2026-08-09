@@ -37,6 +37,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Pooling Layers | Implement channelwise two-dimensional max and average pooling with configurable kernel and stride. | https://www.tensortonic.com/study-plans/cracking-dl/dl-pooling-layers |
 | ResNet Residual Block | Build a NumPy ResNet block with padded convolutions, a skip connection, and ReLU after the residual addition. | https://www.tensortonic.com/study-plans/cracking-dl/dl-resnet-block |
 | Transposed Convolution | Implement transposed convolution from scratch as the learned spatial upsampling operation used by decoder networks. | https://www.tensortonic.com/study-plans/cracking-dl/dl-transposed-convolution |
+| Vanilla RNN Cell | Implement a vanilla recurrent cell with sequential hidden states and optional backpropagation through time gradients. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vanilla-rnn-cell |
 | VGG Convolution Block | Build a NumPy VGG-style block with two valid three-by-three convolutions, ReLU activations, and max pooling. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vgg-block |
 | Weight Initialization | Compute per-layer NumPy weight initialization parameters from network dimensions and the selected initialization method. | https://www.tensortonic.com/study-plans/cracking-dl/dl-weight-initialization |
 
