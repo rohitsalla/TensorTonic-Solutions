@@ -48,6 +48,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Transposed Convolution | Implement transposed convolution from scratch as the learned spatial upsampling operation used by decoder networks. | https://www.tensortonic.com/study-plans/cracking-dl/dl-transposed-convolution |
 | Vanilla RNN Cell | Implement a vanilla recurrent cell with sequential hidden states and optional backpropagation through time gradients. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vanilla-rnn-cell |
 | VGG Convolution Block | Build a NumPy VGG-style block with two valid three-by-three convolutions, ReLU activations, and max pooling. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vgg-block |
+| Vision Transformer Patch Embedding | Convert an image into non-overlapping Vision Transformer patch embeddings with a learned linear projection. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vision-transformer |
 | Weight Initialization | Compute per-layer NumPy weight initialization parameters from network dimensions and the selected initialization method. | https://www.tensortonic.com/study-plans/cracking-dl/dl-weight-initialization |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/sallarohit1)
