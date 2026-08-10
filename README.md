@@ -21,6 +21,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| RGB to Grayscale | Convert an RGB image to grayscale with luminance-weighted color channels for classical computer vision preprocessing. | https://www.tensortonic.com/study-plans/cracking-cv/cv-rgb-to-grayscale |
 | Activation Functions | Implement ReLU, sigmoid, tanh, Leaky ReLU, GELU, and Swish with their analytical derivatives. | https://www.tensortonic.com/study-plans/cracking-dl/dl-activation-functions |
 | Autoencoder Forward Pass | Implement a NumPy autoencoder forward pass through an encoder bottleneck and decoder reconstruction network. | https://www.tensortonic.com/study-plans/cracking-dl/dl-autoencoder |
 | Computational Graph & Autograd | Build a minimal autograd engine that performs forward and backward passes on a computational graph. | https://www.tensortonic.com/study-plans/cracking-dl/dl-autograd |
