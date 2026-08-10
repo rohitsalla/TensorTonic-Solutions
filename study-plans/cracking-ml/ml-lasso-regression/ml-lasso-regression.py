@@ -1,10 +1,6 @@
 import numpy as np
 
 def lasso_regression(X, y, lr, epochs, alpha):
-    """
-    Perform Lasso Regression using gradient descent with L1 subgradient.
-    Returns: tuple of (weights_list, bias_float)
-    """
     X = np.array(X, dtype=float)
     y = np.array(y, dtype=float)
     n, d = X.shape
