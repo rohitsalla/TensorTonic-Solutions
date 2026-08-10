@@ -31,6 +31,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | 2D Transposed Convolution | Implement two-dimensional transposed convolution matching PyTorch output layout, stride, padding, and optional bias. | https://www.tensortonic.com/study-plans/cracking-cv/cv-conv2d-transpose |
 | Depthwise Separable Convolution | Factor image convolution into per-channel spatial filters and a pointwise convolution that mixes output channels. | https://www.tensortonic.com/study-plans/cracking-cv/cv-depthwise-separable-conv |
 | Dilated 2D Convolution | Implement a 2D dilated cross-correlation (no kernel flip) on a single multi-channel image. | https://www.tensortonic.com/study-plans/cracking-cv/cv-dilated-conv2d |
+| FPN Top-Down Fusion | Fuse multiscale feature maps through top-down nearest-neighbor upsampling and aligned lateral addition. | https://www.tensortonic.com/study-plans/cracking-cv/cv-fpn-fusion |
 | Gaussian Blur 2D | Build a normalized separable Gaussian kernel and apply it to a grayscale image with the specified padding behavior. | https://www.tensortonic.com/study-plans/cracking-cv/cv-gaussian-blur |
 | Image Normalize | Normalize each image channel by its supplied mean and standard deviation to produce standardized vision-model inputs. | https://www.tensortonic.com/study-plans/cracking-cv/cv-image-normalize |
 | Max Pool 2D | Apply two-dimensional max pooling to an image with a configurable window and stride, without padding. | https://www.tensortonic.com/study-plans/cracking-cv/cv-max-pool-2d |
