@@ -1,0 +1,23 @@
+import numpy as np
+
+def lasso_regression(X, y, lr, epochs, alpha):
+    """
+    Perform Lasso Regression using gradient descent with L1 subgradient.
+    Returns: tuple of (weights_list, bias_float)
+    """
+    X = np.array(X, dtype=float)
+    y = np.array(y, dtype=float)
+    n, d = X.shape
+
+    w = np.zeros(d)
+    b = 0.0
+
+    for _ in range(epochs):
+        y_pred = X @ w + b
+        error = y_pred - y
+        dw = (2.0 / n) * (X.T @ error) + alpha * np.sign(w)
+        db = (2.0 / n) * np.sum(error)
+        w -= lr * dw
+        b -= lr * db
+
+    return ([round(float(v), 4) for v in w], round(float(b), 4))
