@@ -84,6 +84,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | VGG Convolution Block | Build a NumPy VGG-style block with two valid three-by-three convolutions, ReLU activations, and max pooling. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vgg-block |
 | Vision Transformer Patch Embedding | Convert an image into non-overlapping Vision Transformer patch embeddings with a learned linear projection. | https://www.tensortonic.com/study-plans/cracking-dl/dl-vision-transformer |
 | Weight Initialization | Compute per-layer NumPy weight initialization parameters from network dimensions and the selected initialization method. | https://www.tensortonic.com/study-plans/cracking-dl/dl-weight-initialization |
+| Linear Regression from Scratch | Train linear regression from scratch with mean squared error gradients for weights and bias. | https://www.tensortonic.com/study-plans/cracking-ml/ml-linear-regression-from-scratch |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/sallarohit1)
 <!-- tensortonic:end -->
