@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Adaptive Average Pool 2D | Implement adaptive two-dimensional average pooling with variable, possibly overlapping regions for arbitrary output sizes. | https://www.tensortonic.com/study-plans/cracking-cv/cv-adaptive-avg-pool-2d |
+| Anchor Box Generation | Generate axis-aligned anchor boxes for a feature map of shape (feature h, feature w) at stride s. | https://www.tensortonic.com/study-plans/cracking-cv/cv-anchor-generation |
 | Average Pool 2D | Apply two-dimensional average pooling to an image with the requested kernel and stride, without padding. | https://www.tensortonic.com/study-plans/cracking-cv/cv-avg-pool-2d |
 | Bilinear Resize | Resize a grayscale image with corner-aligned bilinear interpolation matching PyTorch interpolation semantics. | https://www.tensortonic.com/study-plans/cracking-cv/cv-bilinear-resize |
 | Per-Channel Mean and Std | Compute population means and standard deviations for every channel across a batch of images in NHWC layout. | https://www.tensortonic.com/study-plans/cracking-cv/cv-channel-statistics |
