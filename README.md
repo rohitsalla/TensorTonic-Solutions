@@ -116,6 +116,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Ridge Regression | Train Ridge regression with gradient descent, L2-regularized weights, and an unregularized bias term. | https://www.tensortonic.com/study-plans/cracking-ml/ml-ridge-regression |
 | Stacking Ensemble | Build a stacking classifier using cross-validated predictions from decision-stump and KNN base models to train a logistic meta-learner. | https://www.tensortonic.com/study-plans/cracking-ml/ml-stacking |
 | SVM with Hinge Loss (SGD) | Train a linear SVM with sequential SGD updates on hinge loss, L2 weight regularization, and signed class predictions. | https://www.tensortonic.com/study-plans/cracking-ml/ml-svm-hinge-sgd |
+| Apply Ranked BPE Merges | Apply learned byte-pair merge rules to UTF-8 byte IDs in their supplied priority order, then reconstruct text through the supplied vocabulary. | https://www.tensortonic.com/study-plans/language-modeling-from-scratch/cs336-l01-apply-bpe-merge-ranks |
 | Train a Deterministic BPE Vocabulary | Choose the highest count with a lexicographic byte-string tie break, assign the next token ID, and replace non-overlapping matches from left to right. | https://www.tensortonic.com/study-plans/language-modeling-from-scratch/cs336-l01-train-byte-pair-encoding |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/sallarohit1)
