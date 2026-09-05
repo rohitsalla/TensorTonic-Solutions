@@ -133,6 +133,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Global-Memory Coalescing Counter | Count the aligned cache lines touched by a warp's fixed-width global-memory accesses and measure useful transferred bytes. | https://www.tensortonic.com/study-plans/language-modeling-from-scratch/cs336-l05-global-memory-coalescing |
 | GPU Occupancy Calculator | Calculate resident blocks, resident warps, and occupancy from one block's resource use and one SM's limits. | https://www.tensortonic.com/study-plans/language-modeling-from-scratch/cs336-l05-gpu-occupancy-calculator |
 | Shared-Memory Bank Conflict Analyzer | Analyze GPU shared-memory addresses by warp, reporting bank indices and the conflict degree for each access step. | https://www.tensortonic.com/study-plans/language-modeling-from-scratch/cs336-l05-shared-memory-bank-conflicts |
+| Blockwise Online Softmax | Implement stable blockwise online softmax in CUDA for contiguous or strided rows across float32, float16, and bfloat16 inputs. | https://www.tensortonic.com/study-plans/language-modeling-from-scratch/cuda/cs336-l05-blockwise-online-softmax |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/sallarohit1)
 <!-- tensortonic:end -->
