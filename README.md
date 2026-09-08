@@ -22,6 +22,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Problem | Description | Link |
 |---|---|---|
 | Find a Go Group and Its Liberties | Trace the orthogonally connected stones containing one occupied board point and collect every distinct empty intersection adjacent to that group. | https://www.tensortonic.com/study-plans/alphago-from-scratch/alphago-l01-group-liberties |
+| Score a Terminal Position with Tromp-Taylor Rules | Score a terminal Go board with Tromp-Taylor area rules by counting stones and empty regions controlled by each player. | https://www.tensortonic.com/study-plans/alphago-from-scratch/alphago-l01-tromp-taylor-result |
 | Estimate a Scalar Derivative | Estimate a scalar polynomial derivative with a forward finite difference using coefficients ordered by ascending power. | https://www.tensortonic.com/study-plans/autograd-from-scratch/autograd-l01-finite-difference-derivative |
 | Check a Product-Chain Gradient | Compare analytic gradients with forward-difference estimates for a two-operation scalar graph. | https://www.tensortonic.com/study-plans/autograd-from-scratch/autograd-l01-gradient-check-product-chain |
 | Apply a Gradient-Descent Step | Apply one NumPy gradient-descent update and compute the first-order predicted objective change without mutating inputs. | https://www.tensortonic.com/study-plans/autograd-from-scratch/autograd-l01-gradient-descent-step |
